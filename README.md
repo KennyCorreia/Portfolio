@@ -1,3 +1,6 @@
 # Portfolio
 
-Some of the most relevant projects i have worked on
+Some of the most relevant public projects that I have worked on
+
+#NoVibecoding 
+#StackOverflowforever
